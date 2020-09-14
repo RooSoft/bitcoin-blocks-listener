@@ -10,7 +10,7 @@ NodeJS generating events each time a new block enter the Bitcoin blockchain
 
 ```bash
 npm i
-`
+```
 
 ## Run
 
